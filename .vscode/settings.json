@@ -11,6 +11,7 @@
     "string.h": "c",
     "dijkstra.h": "c",
     "floyd.h": "c",
-    "algorithm": "c"
+    "algorithm": "c",
+    "indexsearch.h": "c"
   }
 }
