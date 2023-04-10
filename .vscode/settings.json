@@ -1,6 +1,7 @@
 {
   "files.associations": {
     "stdio.h": "c",
-    "insertlinkedlist.h": "c"
+    "insertlinkedlist.h": "c",
+    "student.h": "c"
   }
 }
