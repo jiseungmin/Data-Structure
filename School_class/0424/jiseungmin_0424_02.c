@@ -7,7 +7,7 @@
 int main(void)
 {
   int a;
-#if SUNMOON >= 3
+#if SUNMOON == 3
   printf("Grade: %.lf\n", SUNMOON);
 #else
   printf("Grade: %d\n", SUNMOON);
