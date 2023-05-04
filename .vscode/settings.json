@@ -3,6 +3,11 @@
     "stdio.h": "c",
     "insertlinkedlist.h": "c",
     "student.h": "c",
+<<<<<<< HEAD
     "evalpostfix.h": "c"
+=======
+    "cqueues.h": "c",
+    "stdlib.h": "c"
+>>>>>>> 42ac6e66d31ee2d13806e072a604046656a4b717
   }
 }
