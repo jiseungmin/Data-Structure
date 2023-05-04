@@ -3,6 +3,7 @@
     "stdio.h": "c",
     "insertlinkedlist.h": "c",
     "student.h": "c",
-    "cqueues.h": "c"
+    "cqueues.h": "c",
+    "stdlib.h": "c"
   }
 }
