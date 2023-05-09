@@ -1,4 +1,6 @@
+#include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 #include "InsertLinkedList.h"
 
 // 공백 연결 리스트를 생성하는 연산
