@@ -6,6 +6,8 @@
     "evalpostfix.h": "c",
     "cqueues.h": "c",
     "stdlib.h": "c",
-    "traversalbt.h": "c"
+    "traversalbt.h": "c",
+    "doublelinkedlist.h": "c",
+    "string.h": "c"
   }
 }
