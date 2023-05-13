@@ -10,6 +10,7 @@
     "doublelinkedlist.h": "c",
     "string.h": "c",
     "dijkstra.h": "c",
-    "floyd.h": "c"
+    "floyd.h": "c",
+    "algorithm": "c"
   }
 }
