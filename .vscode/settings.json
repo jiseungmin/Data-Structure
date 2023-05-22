@@ -12,6 +12,7 @@
     "dijkstra.h": "c",
     "floyd.h": "c",
     "algorithm": "c",
-    "indexsearch.h": "c"
+    "indexsearch.h": "c",
+    "likedqueue.h": "c"
   }
 }
